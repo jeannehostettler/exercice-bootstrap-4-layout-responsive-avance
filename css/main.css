@@ -50,3 +50,15 @@ video {
   background-color: rgba(86, 61, 124, 0.15);
   border: 1px solid rgba(86, 61, 124, 0.2);
 }
+
+.black {
+  background: #2b2d42;
+}
+
+.pink {
+  background: #f0e0ff;
+}
+
+.blue {
+  background: #92dce5;
+}
